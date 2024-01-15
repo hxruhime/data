@@ -11,6 +11,7 @@ some extra awesome collections:
 | Article             | Topic                              | ⛓️ |
 |:-------------------:|------------------------------------|:--:|
 | Platforming         | Social Media Networks              | [🔗](#social-media-networks)            |   
+| Platforming         | Dating Networks                    | [🔗](dating-networks)                   |   
 | OSINT               | OSINT Tools                        | [🔗](#osint-tools)                      |   
 | OSINT               | OSINT Resources                    | [🔗](#osint-resources)                  |  
 | Directories         | People Directories                 | [🔗](#people-directories)               |   
