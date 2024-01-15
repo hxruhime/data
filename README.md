@@ -95,7 +95,7 @@ xix.   Background Checks
 
 ### Checking Reports
 
-- https://merchants.fiserv.com/
+- https://merchants.fiserv.com
 
 ### Credit Reports  
 
