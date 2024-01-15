@@ -1,6 +1,5 @@
 # schizophrenia
-list of data related tools and resources compiled from various sources, semi specific to the USA  
-remember the gangstalkers are watching you!!  
+list of data related tools and resources compiled from various sources. (some semi specific to the USA)  
 
 ## Table of Contents
 
