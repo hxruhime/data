@@ -9,7 +9,7 @@ some extra awesome collections:
 ## Table of Contents
 
 | Article             | Topic                              | ⛓️ |
-|:-------------------:|------------------------------------|:--:|
+|---------------------|------------------------------------|:--:|
 | Platforming         | Social Media Networks              | [🔗](#social-media-networks)            |   
 | Platforming         | Dating Networks                    | [🔗](dating-networks)                   |   
 | OSINT               | OSINT Tools                        | [🔗](#osint-tools)                      |   
