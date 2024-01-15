@@ -6,27 +6,27 @@ remember the gangstalkers are watching you!!
 
 | Article        | Topic                              | ⛓️ |
 |:--------------:|------------------------------------|:--:|
-| i.             | Social Media Networks              | [🔗](#i)     |   
-| ii.            | OSINT Tools                        | [🔗](#ii)    |   
-| iii.           | OSINT Resources                    | [🔗](#iii)   |  
-| iv.            | People Directories                 | [🔗](#iv)    |   
-| v.             | Phone Directories                  | [🔗](#v)     |   
-| vi.            | Database Breach Reports            | [🔗](#vi)    |   
-| vii.           | Checking Reports                   | [🔗](#vii)   |   
-| viii.          | Credit Reports                     | [🔗](#viii)  |  
-| ix.            | Credit Freezing                    | [🔗](#ix)    |   
-| x.             | Identity Fraud Reports             | [🔗](#x)     |   
-| xi.            | Leads / Real Estate / Misc Reports | [🔗](#xi)    |  
-| xii.           | Retail Reports                     | [🔗](#xii)   |   
-| xiii.          | Pharmaceutical History Reports     | [🔗](#xiii)  |   
-| xiv.           | Threat Intelligence                | [🔗](#xiv)   |   
-| xv.            | InfoSec                            | [🔗](#xv)    |   
-| xvi.           | Cyber Security                     | [🔗](#xvi)   |   
-| xvii.          | Geospatial Analysis                | [🔗](#xvii)  |   
-| xviii.         | Dorking                            | [🔗](#xviii) |   
-| xix.           | Background Checks                  | [🔗](#xix)   | 
+| i.             | Social Media Networks              | [🔗]()     |   
+| ii.            | OSINT Tools                        | [🔗]()    |   
+| iii.           | OSINT Resources                    | [🔗]()   |  
+| iv.            | People Directories                 | [🔗]()    |   
+| v.             | Phone Directories                  | [🔗]()     |   
+| vi.            | Database Breach Reports            | [🔗]()    |   
+| vii.           | Checking Reports                   | [🔗]()   |   
+| viii.          | Credit Reports                     | [🔗]()  |  
+| ix.            | Credit Freezing                    | [🔗]()    |   
+| x.             | Identity Fraud Reports             | [🔗]()     |   
+| xi.            | Leads / Real Estate / Misc Reports | [🔗]()    |  
+| xii.           | Retail Reports                     | [🔗]()   |   
+| xiii.          | Pharmaceutical History Reports     | [🔗]()  |   
+| xiv.           | Threat Intelligence                | [🔗]()   |   
+| xv.            | InfoSec                            | [🔗]()    |   
+| xvi.           | Cyber Security                     | [🔗]()   |   
+| xvii.          | Geospatial Analysis                | [🔗]()  |   
+| xviii.         | Dorking                            | [🔗]() |   
+| xix.           | Background Checks                  | [🔗]()   | 
 
-# Social Media Networks {#i}  
+# Social Media Networks   
 
 - https://facebook.com
 - https://instagram.com
@@ -35,7 +35,7 @@ remember the gangstalkers are watching you!!
 - https://tumblr.com
 - https://vk.ru
 
-### OSINT Tools {#ii}    
+# OSINT Tools    
   
 - https://search.0t.rocks
 - https://whatsmyname.app
@@ -49,12 +49,12 @@ remember the gangstalkers are watching you!!
 - https://github.com/soxoj/maigret
 - https://knowem.com
 
-### OSINT Resources {#iii}
+# OSINT Resources
 
 - https://inteltechniques.com
 - https://booleanstrings.com/tools
  
-### People Directories {#iv}  
+# People Directories 
 
 - https://spokeo.com
 - https://pipl.com
@@ -72,7 +72,7 @@ remember the gangstalkers are watching you!!
 - https://namesandfacts.com
 - https://familytreenow.com
 
-### Phone Directories {#v}  
+# Phone Directories 
 
 - https://411.com
 - https://whitepages.com
@@ -89,17 +89,17 @@ remember the gangstalkers are watching you!!
 - https://mrnumber.com
 - https://10digits.us
 
-### Database Breach Reports {#vi}
+# Database Breach Reports
 
 - https://snusbase.com
 - https://breachbase.com
 - https://haveibeenpwned.com
 
-### Checking Reports {#vii}
+# Checking Reports 
 
 - https://merchants.fiserv.com
 
-### Credit Reports {#viii}  
+# Credit Reports 
 
 - https://annualcreditreport.com
 - http://innovis.com
@@ -107,55 +107,55 @@ remember the gangstalkers are watching you!!
 - https://transunion.com
 - https://equifax.com
 
-### Credit Freezing {#ix}
+# Credit Freezing
 
 - https://www.freeze.equifax.com
 - https://experian.com/freeze/center.html
 - https://freeze.transunion.com
 
-### Identity Fraud Reports {#x}
+# Identity Fraud Reports
 
 - https://nctue.com
 - https://ssa.gov
 
-### Leads / Real Estate / Misc Reports {#xi}  
+# Leads / Real Estate / Misc Reports 
 
 - https://lexisnexis.com
 - http://acxiom.com
 - https://corelogic.com
 - https://tenantdata.com
 
-### Retail Reports {#xii}
+# Retail Reports
 
 - https://theretailequation.com
 
-### Pharmaceutical History Reports {#xiii}
+# Pharmaceutical History Reports
 
 - https://rxhistories.com
 
-### Threat Intelligence {#xiv} 
+# Threat Intelligence
 
 - https://github.com/hslatman/awesome-threat-intelligence
 
-### InfoSec {#xv}
+# InfoSec
 
 - https://github.com/onlurking/awesome-infosec
 
-### Cyber Security {#xvi}
+# Cyber Security
 
 - https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks
 - https://bughuntar.github.io/Cyber-Security-Tools
 
-### Geospatial Analysis {#xvii}
+# Geospatial Analysis
 
 - https://github.com/sacridini/Awesome-Geospatial
 
-### Dorking {#xviii}
+# Dorking
 
 - https://dorkgenius.com
 - https://www.exploit-db.com/google-hacking-database
 
-### Background Checks {#xix}
+# Background Checks
 
 - https://www.smartbackgroundchecks.com
 - https://www.cyberbackgroundchecks.com
