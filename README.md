@@ -6,7 +6,7 @@ remember the gangstalkers are watching you!!
 
 | Article        | Topic                              | ⛓️ |
 |:--------------:|------------------------------------|:--:|
-| i.             | Social Media Networks              | [🔗](###Social Media Networks)   |   
+| i.             | Social Media Networks              | [🔗](#smm)   |   
 | ii.            | OSINT Tools                        |    |   
 | iii.           | OSINT Resources                    |    |  
 | iv.            | People Directories                 |    |   
@@ -26,7 +26,7 @@ remember the gangstalkers are watching you!!
 | xviii.         | Dorking                            |    |   
 | xix.           | Background Checks                  |    | 
 
-### Social Media Networks  
+### Social Media Networks {#smm}  
 
 - https://facebook.com
 - https://instagram.com
