@@ -54,6 +54,7 @@ list of data related tools and resources compiled from various sources. (some se
 - https://github.com/soxoj/maigret
 - https://knowem.com
 - https://github.com/laramies/theHarvester
+- https://github.com/TheYahya/enola
 
 # OSINT Resources
 
