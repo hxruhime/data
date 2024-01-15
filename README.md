@@ -6,7 +6,7 @@ remember the gangstalkers are watching you!!
 
 | Article        | Topic                              | ⛓️ |
 |:--------------:|------------------------------------|:--:|
-| i.             | Social Media Networks              | [🔗]()     |   
+| i.             | Social Media Networks              | [🔗](#social-media-networks)     |   
 | ii.            | OSINT Tools                        | [🔗]()    |   
 | iii.           | OSINT Resources                    | [🔗]()   |  
 | iv.            | People Directories                 | [🔗]()    |   
