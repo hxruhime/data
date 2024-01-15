@@ -46,7 +46,6 @@ list of data related tools and resources compiled from various sources. (some se
 - https://whatsmyname.app
 - https://osint.industries
 - https://osint.lolarchiver.com
-- https://metaosint.github.io
 - https://github.com/Alfredredbird/alfred
 - https://github.com/p1ngul1n0/blackbird
 - https://github.com/megadose/holehe
@@ -60,6 +59,7 @@ list of data related tools and resources compiled from various sources. (some se
 
 - https://inteltechniques.com
 - https://booleanstrings.com/tools
+- https://metaosint.github.io
  
 # People Directories 
 
