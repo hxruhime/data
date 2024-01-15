@@ -17,6 +17,7 @@ some extra awesome collections:
 | Directories         | People Directories                 | [🔗](#people-directories)               |   
 | Directories         | Phone Directories                  | [🔗](#phone-directories)                |   
 | Directories         | Email Directories                  | [🔗](#email-directories)                |   
+| Directories         | Background Checks                  | [🔗](#background-checks)                | 
 | Database            | Database Breach Reports            | [🔗](#database-breach-reports)          |   
 | Fiscal              | Checking Reports                   | [🔗](#checking-reports)                 |   
 | Fiscal              | Credit Reports                     | [🔗](#credit-reports)                   |  
@@ -26,7 +27,6 @@ some extra awesome collections:
 | Cyber Security      | InfoSec                            | [🔗](#infosec)                          |   
 | Cyber Security      | Misc Cyber Security                | [🔗](#cyber-security)                   |   
 | Cyber Security      | Dorking                            | [🔗](#dorking)                          |   
-| Cyber Security      | Background Checks                  | [🔗](#background-checks)                | 
 | Cyber Security      | Networking                         | [🔗](#networking)                       | 
 | Cyber Security      | URL Analysis                       | [🔗](#url-analysis)                     | 
 | Softwae Engineering | Git / Code                         | [🔗](#git--code)                        | 
@@ -116,6 +116,11 @@ some extra awesome collections:
 
 - https://hunter.io
 
+## Background Checks
+
+- https://www.smartbackgroundchecks.com
+- https://www.cyberbackgroundchecks.com
+
 # Database
 
 ## Database Breach Reports
@@ -173,11 +178,6 @@ some extra awesome collections:
 - https://dorkgenius.com
 - https://www.exploit-db.com/google-hacking-database
 - https://dorksearch.com
-
-## Background Checks
-
-- https://www.smartbackgroundchecks.com
-- https://www.cyberbackgroundchecks.com
 
 ## Networking
 
