@@ -10,20 +10,26 @@ list of data related tools and resources compiled from various sources. (some se
 | iii.           | OSINT Resources                    | [🔗](#osint-resources)                  |  
 | iv.            | People Directories                 | [🔗](#people-directories)               |   
 | v.             | Phone Directories                  | [🔗](#phone-directories)                |   
-| vi.            | Database Breach Reports            | [🔗](#database-breach-reports)          |   
-| vii.           | Checking Reports                   | [🔗](#checking-reports)                 |   
-| viii.          | Credit Reports                     | [🔗](#credit-reports)                   |  
-| ix.            | Credit Freezing                    | [🔗](#credit-freezing)                  |   
-| x.             | Identity Fraud Reports             | [🔗](#identity-fraud-reports)           |   
-| xi.            | Leads / Real Estate / Misc Reports | [🔗](#leads--real-estate--misc-reports) |  
-| xii.           | Retail Reports                     | [🔗](#retail-reports)                   |   
-| xiii.          | Pharmaceutical History Reports     | [🔗](#pharmaceutical-history-reports)   |   
-| xiv.           | Threat Intelligence                | [🔗](#threat-intelligence)              |   
-| xv.            | InfoSec                            | [🔗](#infosec)                          |   
-| xvi.           | Cyber Security                     | [🔗](#cyber-security)                   |   
-| xvii.          | Geospatial Analysis                | [🔗](#geospatial-analysis)              |   
-| xviii.         | Dorking                            | [🔗](#dorking)                          |   
-| xix.           | Background Checks                  | [🔗](#background-checks)                | 
+| vi.            | Email Directories                  | [🔗](#email-directories)                |   
+| vii.           | Database Breach Reports            | [🔗](#database-breach-reports)          |   
+| viii.          | Checking Reports                   | [🔗](#checking-reports)                 |   
+| ix.            | Credit Reports                     | [🔗](#credit-reports)                   |  
+| x.             | Credit Freezing                    | [🔗](#credit-freezing)                  |   
+| xi.            | Identity Fraud Reports             | [🔗](#identity-fraud-reports)           |   
+| xii.           | Leads / Real Estate / Misc Reports | [🔗](#leads--real-estate--misc-reports) |  
+| xiii.          | Retail Reports                     | [🔗](#retail-reports)                   |   
+| xiv.           | Pharmaceutical History Reports     | [🔗](#pharmaceutical-history-reports)   |   
+| xv.            | Threat Intelligence                | [🔗](#threat-intelligence)              |   
+| xvi.           | InfoSec                            | [🔗](#infosec)                          |   
+| xvii.          | Cyber Security                     | [🔗](#cyber-security)                   |   
+| xviii.         | Geospatial Analysis                | [🔗](#geospatial-analysis)              |   
+| xix.           | Dorking                            | [🔗](#dorking)                          |   
+| xx.            | Background Checks                  | [🔗](#background-checks)                | 
+| xxi.           | Networking                         | [🔗](#networking)                       | 
+| xxii.          | Git                                | [🔗](#git--code)                        | 
+| xxiii.         | URL Analysis                       | [🔗](#url-analysis)                     | 
+| xxiv.          | Misc Search Engines                | [🔗](#misc-search-engines)              | 
+| xxv.           | Hidden Services                    | [🔗](#hidden-services)                  | 
 
 # Social Media Networks   
 
@@ -47,6 +53,7 @@ list of data related tools and resources compiled from various sources. (some se
 - https://github.com/mxrch/GHunt
 - https://github.com/soxoj/maigret
 - https://knowem.com
+- https://github.com/laramies/theHarvester
 
 # OSINT Resources
 
@@ -88,11 +95,16 @@ list of data related tools and resources compiled from various sources. (some se
 - https://mrnumber.com
 - https://10digits.us
 
+# Email Directories
+
+- https://hunter.io
+
 # Database Breach Reports
 
 - https://snusbase.com
 - https://breachbase.com
 - https://haveibeenpwned.com
+- https://intelx.io
 
 # Checking Reports 
 
@@ -135,6 +147,7 @@ list of data related tools and resources compiled from various sources. (some se
 # Threat Intelligence
 
 - https://github.com/hslatman/awesome-threat-intelligence
+- https://censys.io
 
 # InfoSec
 
@@ -153,8 +166,38 @@ list of data related tools and resources compiled from various sources. (some se
 
 - https://dorkgenius.com
 - https://www.exploit-db.com/google-hacking-database
+- https://dorksearch.com
 
 # Background Checks
 
 - https://www.smartbackgroundchecks.com
 - https://www.cyberbackgroundchecks.com
+
+# Networking
+
+- https://shodan.io
+- https://wigle.net
+- https://www.onyphe.io
+- https://leakix.net
+- https://ipinfo.io
+- https://www.criminalip.io
+- https://netlas.io
+- https://viz.greynoise.io
+
+# Git / Code
+
+- https://grep.app
+- https://publicwww.com
+- https://searchcode.com
+
+# URL Analysis
+
+- https://urlscan.io
+
+# Misc Search Engines
+
+- https://www.zoomeye.org
+
+# Hidden Services
+
+- https://ahmia.fi
