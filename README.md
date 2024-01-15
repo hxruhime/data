@@ -6,25 +6,25 @@ remember the gangstalkers are watching you!!
 
 | Article        | Topic                              | ⛓️ |
 |:--------------:|------------------------------------|:--:|
-| i.             | Social Media Networks              | [🔗](#social-media-networks)     |   
-| ii.            | OSINT Tools                        | [🔗]()    |   
-| iii.           | OSINT Resources                    | [🔗]()   |  
-| iv.            | People Directories                 | [🔗]()    |   
-| v.             | Phone Directories                  | [🔗]()     |   
-| vi.            | Database Breach Reports            | [🔗]()    |   
-| vii.           | Checking Reports                   | [🔗]()   |   
-| viii.          | Credit Reports                     | [🔗]()  |  
-| ix.            | Credit Freezing                    | [🔗]()    |   
-| x.             | Identity Fraud Reports             | [🔗]()     |   
-| xi.            | Leads / Real Estate / Misc Reports | [🔗]()    |  
-| xii.           | Retail Reports                     | [🔗]()   |   
-| xiii.          | Pharmaceutical History Reports     | [🔗]()  |   
-| xiv.           | Threat Intelligence                | [🔗]()   |   
-| xv.            | InfoSec                            | [🔗]()    |   
-| xvi.           | Cyber Security                     | [🔗]()   |   
-| xvii.          | Geospatial Analysis                | [🔗]()  |   
-| xviii.         | Dorking                            | [🔗]() |   
-| xix.           | Background Checks                  | [🔗]()   | 
+| i.             | Social Media Networks              | [🔗](#social-media-networks)            |   
+| ii.            | OSINT Tools                        | [🔗](#osint-tools)                      |   
+| iii.           | OSINT Resources                    | [🔗](#osint-resources)                  |  
+| iv.            | People Directories                 | [🔗](#people-directories)               |   
+| v.             | Phone Directories                  | [🔗](#phone-directories)                |   
+| vi.            | Database Breach Reports            | [🔗](#database-breach-reports)          |   
+| vii.           | Checking Reports                   | [🔗](#checking-reports)                 |   
+| viii.          | Credit Reports                     | [🔗](#credit-reports)                   |  
+| ix.            | Credit Freezing                    | [🔗](#credit-freezing)                  |   
+| x.             | Identity Fraud Reports             | [🔗](#identity-fraud-reports)           |   
+| xi.            | Leads / Real Estate / Misc Reports | [🔗](#leads--real-estate--misc-reports) |  
+| xii.           | Retail Reports                     | [🔗](#retail-reports)                   |   
+| xiii.          | Pharmaceutical History Reports     | [🔗](#pharmaceutical-history-reports)   |   
+| xiv.           | Threat Intelligence                | [🔗](#threat-intelligence)              |   
+| xv.            | InfoSec                            | [🔗](#infosec)                          |   
+| xvi.           | Cyber Security                     | [🔗](#cyber-security)                   |   
+| xvii.          | Geospatial Analysis                | [🔗](#geospatial-analysis)              |   
+| xviii.         | Dorking                            | [🔗](#dorking)                          |   
+| xix.           | Background Checks                  | [🔗](#background-checks)                | 
 
 # Social Media Networks   
 
