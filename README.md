@@ -1,6 +1,11 @@
 # schizophrenia
 list of data related tools and resources compiled from various sources. (some semi specific to the USA)  
 
+some extra awesome collections:    
+  
+- https://start.me/p/DPYPMz/the-ultimate-osint-collection  
+- https://start.me/p/L1rEYQ/osint4all  
+  
 ## Table of Contents
 
 | Article        | Topic                              | ⛓️ |
