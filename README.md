@@ -31,7 +31,7 @@ some extra awesome collections:
 | xix.           | Dorking                            | [🔗](#dorking)                          |   
 | xx.            | Background Checks                  | [🔗](#background-checks)                | 
 | xxi.           | Networking                         | [🔗](#networking)                       | 
-| xxii.          | Git                                | [🔗](#git--code)                        | 
+| xxii.          | Git / Code                         | [🔗](#git--code)                        | 
 | xxiii.         | URL Analysis                       | [🔗](#url-analysis)                     | 
 | xxiv.          | Misc Search Engines                | [🔗](#misc-search-engines)              | 
 | xxv.           | Hidden Services                    | [🔗](#hidden-services)                  | 
