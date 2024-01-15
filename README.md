@@ -4,25 +4,26 @@ remember the gangstalkers are watching you!!
 
 ## Table of Contents
 
-i.     Social Media Networks  
-ii.    OSINT Tools  
-iii.   OSINT Resources  
-iv.    People Directories    
-v.     Phone Directories  
-vi.    Database Breach Reports  
-vii.   Checking Reports  
-viii.  Credit Reports  
-ix.    Credit Freezing  
-x.     Identity Fraud Reports  
-xi.    Leads / Real Estate / Misc Reports  
-xii.   Retail Reports  
-xiii.  Pharmaceutical History Reports  
-xiv.   Threat Intelligence   
-xv.    InfoSec  
-xvi.   Cyber Security  
-xvii.  Geospatial Analysis  
-xviii. Dorking  
-xix.   Background Checks  
+|----------------|------------------------------------|---|
+| i.             | Social Media Networks              |   |   
+| ii.            | OSINT Tools                        |   |   
+| iii.           | OSINT Resources                    |   |  
+| iv.            | People Directories                 |   |   
+| v.             | Phone Directories                  |   |   
+| vi.            | Database Breach Reports            |   |   
+| vii.           | Checking Reports                   |   |   
+| viii.          | Credit Reports                     |   |  
+| ix.            | Credit Freezing                    |   |   
+| x.             | Identity Fraud Reports             |   |   
+| xi.            | Leads / Real Estate / Misc Reports |   |  
+| xii.           | Retail Reports                     |   |   
+| xiii.          | Pharmaceutical History Reports     |   |   
+| xiv.           | Threat Intelligence                |   |   
+| xv.            | InfoSec                            |   |   
+| xvi.           | Cyber Security                     |   |   
+| xvii.          | Geospatial Analysis                |   |   
+| xviii.         | Dorking                            |   |   
+| xix.           | Background Checks                  |   | 
 
 ### Social Media Networks  
 
