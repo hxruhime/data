@@ -8,33 +8,35 @@ some extra awesome collections:
   
 ## Table of Contents
 
-| Article        | Topic                              | ⛓️ |
-|:--------------:|------------------------------------|:--:|
-| i.             | Social Media Networks              | [🔗](#social-media-networks)            |   
-| ii.            | OSINT Tools                        | [🔗](#osint-tools)                      |   
-| iii.           | OSINT Resources                    | [🔗](#osint-resources)                  |  
-| iv.            | People Directories                 | [🔗](#people-directories)               |   
-| v.             | Phone Directories                  | [🔗](#phone-directories)                |   
-| vi.            | Email Directories                  | [🔗](#email-directories)                |   
-| vii.           | Database Breach Reports            | [🔗](#database-breach-reports)          |   
-| viii.          | Checking Reports                   | [🔗](#checking-reports)                 |   
-| ix.            | Credit Reports                     | [🔗](#credit-reports)                   |  
-| x.             | Credit Freezing                    | [🔗](#credit-freezing)                  |   
-| xi.            | Identity Fraud Reports             | [🔗](#identity-fraud-reports)           |   
-| xii.           | Leads / Real Estate / Misc Reports | [🔗](#leads--real-estate--misc-reports) |  
-| xiii.          | Retail Reports                     | [🔗](#retail-reports)                   |   
-| xiv.           | Pharmaceutical History Reports     | [🔗](#pharmaceutical-history-reports)   |   
-| xv.            | Threat Intelligence                | [🔗](#threat-intelligence)              |   
-| xvi.           | InfoSec                            | [🔗](#infosec)                          |   
-| xvii.          | Cyber Security                     | [🔗](#cyber-security)                   |   
-| xviii.         | Geospatial Analysis                | [🔗](#geospatial-analysis)              |   
-| xix.           | Dorking                            | [🔗](#dorking)                          |   
-| xx.            | Background Checks                  | [🔗](#background-checks)                | 
-| xxi.           | Networking                         | [🔗](#networking)                       | 
-| xxii.          | Git / Code                         | [🔗](#git--code)                        | 
-| xxiii.         | URL Analysis                       | [🔗](#url-analysis)                     | 
-| xxiv.          | Misc Search Engines                | [🔗](#misc-search-engines)              | 
-| xxv.           | Hidden Services                    | [🔗](#hidden-services)                  | 
+| Article             | Topic                              | ⛓️ |
+|:-------------------:|------------------------------------|:--:|
+| Platforming         | Social Media Networks              | [🔗](#social-media-networks)            |   
+| OSINT               | OSINT Tools                        | [🔗](#osint-tools)                      |   
+| OSINT               | OSINT Resources                    | [🔗](#osint-resources)                  |  
+| Directories         | People Directories                 | [🔗](#people-directories)               |   
+| Directories         | Phone Directories                  | [🔗](#phone-directories)                |   
+| Directories         | Email Directories                  | [🔗](#email-directories)                |   
+| Database            | Database Breach Reports            | [🔗](#database-breach-reports)          |   
+| Fiscal              | Checking Reports                   | [🔗](#checking-reports)                 |   
+| Fiscal              | Credit Reports                     | [🔗](#credit-reports)                   |  
+| Fiscal              | Credit Freezing                    | [🔗](#credit-freezing)                  |   
+| Fraud               | Identity Fraud Reports             | [🔗](#identity-fraud-reports)           |   
+| Cyber Security      | Threat Intelligence                | [🔗](#threat-intelligence)              |   
+| Cyber Security      | InfoSec                            | [🔗](#infosec)                          |   
+| Cyber Security      | Misc Cyber Security                | [🔗](#cyber-security)                   |   
+| Cyber Security      | Dorking                            | [🔗](#dorking)                          |   
+| Cyber Security      | Background Checks                  | [🔗](#background-checks)                | 
+| Cyber Security      | Networking                         | [🔗](#networking)                       | 
+| Cyber Security      | URL Analysis                       | [🔗](#url-analysis)                     | 
+| Softwae Engineering | Git / Code                         | [🔗](#git--code)                        | 
+| Misc.               | Geospatial Analysis                | [🔗](#geospatial-analysis)              |   
+| Misc.               | Leads / Real Estate / Misc Reports | [🔗](#leads--real-estate--misc-reports) |  
+| Misc.               | Retail Reports                     | [🔗](#retail-reports)                   |   
+| Misc.               | Pharmaceutical History Reports     | [🔗](#pharmaceutical-history-reports)   |   
+| Misc.               | Misc Search Engines                | [🔗](#misc-search-engines)              | 
+| Misc.               | Hidden Services                    | [🔗](#hidden-services)                  | 
+
+# Platforming
 
 ## Social Media Networks   
 
@@ -45,7 +47,13 @@ some extra awesome collections:
 - https://tumblr.com
 - https://vk.ru
 
-# OSINT Tools    
+## Dating Networks
+
+- https://tinder.com
+
+# OSINT
+
+## OSINT Tools    
   
 - https://search.0t.rocks
 - https://whatsmyname.app
@@ -60,13 +68,15 @@ some extra awesome collections:
 - https://github.com/laramies/theHarvester
 - https://github.com/TheYahya/enola
 
-# OSINT Resources
+## OSINT Resources
 
 - https://inteltechniques.com
 - https://booleanstrings.com/tools
 - https://metaosint.github.io
+
+# Directories
  
-# People Directories 
+## People Directories 
 
 - https://spokeo.com
 - https://pipl.com
@@ -84,7 +94,7 @@ some extra awesome collections:
 - https://namesandfacts.com
 - https://familytreenow.com
 
-# Phone Directories 
+## Phone Directories 
 
 - https://411.com
 - https://whitepages.com
@@ -101,22 +111,26 @@ some extra awesome collections:
 - https://mrnumber.com
 - https://10digits.us
 
-# Email Directories
+## Email Directories
 
 - https://hunter.io
 
-# Database Breach Reports
+# Database
+
+## Database Breach Reports
 
 - https://snusbase.com
 - https://breachbase.com
 - https://haveibeenpwned.com
 - https://intelx.io
 
-# Checking Reports 
+# Fiscal
+
+## Checking Reports 
 
 - https://merchants.fiserv.com
 
-# Credit Reports 
+## Credit Reports 
 
 - https://annualcreditreport.com
 - http://innovis.com
@@ -124,62 +138,47 @@ some extra awesome collections:
 - https://transunion.com
 - https://equifax.com
 
-# Credit Freezing
+## Credit Freezing
 
 - https://www.freeze.equifax.com
 - https://experian.com/freeze/center.html
 - https://freeze.transunion.com
 
-# Identity Fraud Reports
+# Fraud
+
+## Identity Fraud Reports
 
 - https://nctue.com
 - https://ssa.gov
 
-# Leads / Real Estate / Misc Reports 
+# Cyber Security
 
-- https://lexisnexis.com
-- http://acxiom.com
-- https://corelogic.com
-- https://tenantdata.com
-
-# Retail Reports
-
-- https://theretailequation.com
-
-# Pharmaceutical History Reports
-
-- https://rxhistories.com
-
-# Threat Intelligence
+## Threat Intelligence
 
 - https://github.com/hslatman/awesome-threat-intelligence
 - https://censys.io
 
-# InfoSec
+## InfoSec
 
 - https://github.com/onlurking/awesome-infosec
 
-# Cyber Security
+## Misc Cyber Security
 
 - https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks
 - https://bughuntar.github.io/Cyber-Security-Tools
 
-# Geospatial Analysis
-
-- https://github.com/sacridini/Awesome-Geospatial
-
-# Dorking
+## Dorking
 
 - https://dorkgenius.com
 - https://www.exploit-db.com/google-hacking-database
 - https://dorksearch.com
 
-# Background Checks
+## Background Checks
 
 - https://www.smartbackgroundchecks.com
 - https://www.cyberbackgroundchecks.com
 
-# Networking
+## Networking
 
 - https://shodan.io
 - https://wigle.net
@@ -190,20 +189,43 @@ some extra awesome collections:
 - https://netlas.io
 - https://viz.greynoise.io
 
-# Git / Code
+## URL Analysis
+
+- https://urlscan.io
+
+# Software Engineering
+
+## Git / Code
 
 - https://grep.app
 - https://publicwww.com
 - https://searchcode.com
 
-# URL Analysis
+# Misc
 
-- https://urlscan.io
+## Geospatial Analysis
 
-# Misc Search Engines
+- https://github.com/sacridini/Awesome-Geospatial
+
+## Leads / Real Estate / Misc Reports 
+
+- https://lexisnexis.com
+- http://acxiom.com
+- https://corelogic.com
+- https://tenantdata.com
+
+## Retail Reports
+
+- https://theretailequation.com
+
+## Pharmaceutical History Reports
+
+- https://rxhistories.com
+
+## Misc Search Engines
 
 - https://www.zoomeye.org
 
-# Hidden Services
+## Hidden Services
 
 - https://ahmia.fi
