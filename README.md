@@ -1,4 +1,4 @@
-# schizophrenia
+# data
 list of data related tools and resources compiled from various sources. (some semi specific to the USA)  
 
 some extra awesome collections:    
