@@ -146,7 +146,7 @@ some extra awesome collections:
 
 ## Credit Freezing
 
-- https://www.freeze.equifax.com
+- https://www.equifax.com/personal/credit-report-services/credit-freeze
 - https://experian.com/freeze/center.html
 - https://freeze.transunion.com
 
